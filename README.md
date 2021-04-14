@@ -15,3 +15,5 @@ I have run this jupyiter notebbok on my local machine w/ GPU but you can run thi
 - [x] Run and Train model
 - [ ] Add in explanation for each cell in Jupyter notebook
 - [ ] Figure out output and how it can be applied to our own project
+
+https://www.kaggle.com/karanjakhar/facial-keypoint-detection
